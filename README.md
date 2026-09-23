@@ -14,7 +14,11 @@ Atuo do briefing ao ar: site, catálogo, operação interna e sistemas sob medid
 
 ## Stack
 
-`HTML` · `CSS` · `JavaScript` · `Cloudflare Workers` · `APIs` · `SQL`
+Linguagens que uso no dia a dia, inclusive nas plataformas maiores (TypeScript no back-end e no painel):
+
+`HTML` · `CSS` · `TypeScript` · `JavaScript` · `Python` · `Java`
+
+Também: `Cloudflare Workers` · `APIs` · `SQL`
 
 ## Projetos públicos
 
