@@ -16,17 +16,17 @@ Atuo do briefing ao ar: site, catálogo, operação interna e sistemas sob medid
 
 `HTML` · `CSS` · `JavaScript` · `Cloudflare Workers` · `APIs` · `SQL`
 
-Trabalho com front-end direto (sem framework pesado quando o projeto pede leveza) e back-end em nuvem.
-
 ## Projetos públicos
 
 | Projeto | O que é |
 |---|---|
-| [Lecars Auto](https://github.com/andrey-a2performance/lecars-auto) | Vitrine e operação digital para loja de veículos (estoque, ficha do carro, financiamento e contato). |
-| [A2 Imports](https://github.com/andrey-a2performance/a2-tech-elite) | Site institucional e vitrine da A2 Imports, especialista em produtos Apple. |
-| [Cia da Moda](https://github.com/andrey-a2performance/cia-da-moda-tubarao) | Presença digital da Cia da Moda Store — moda e estilo em Tubarão/SC. |
+| Estilo Delas | Catálogo e vitrine de lingerie e moda feminina. |
+| Hanna Pizzaria | Site e cardápio digital da Hanna Pizzaria, em Tubarão/SC. |
+| Loja de celulares | Vitrine digital para loja de celulares e eletrônicos. |
+| Loja de veículos | Vitrine e operação para loja de carros (estoque, ficha e financiamento). |
+| Loja de veículos (painel) | Site + painel de gestão: estoque, leads e captação. |
 
-Outros sistemas e sites de clientes permanecem em repositórios privados.
+Outros sistemas de clientes permanecem em repositórios privados.
 
 ## A2 Shark Performance
 
